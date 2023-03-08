@@ -108,11 +108,10 @@ experiences:
             - Impresion a laser
      
 projects:
-    title: Projects
+    title: Proyectos
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+     Cree una base de datos en un el software Windows en la aplicacion de Acess y Excel 
+     de una tienda de ropa para Dama
     assignments:
       - title: Velocity
         link: "#hook"
