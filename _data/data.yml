@@ -175,25 +175,25 @@ publications:
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Habilidades y Competencia
 
     toolset:
-      - name: Python & Django
+      - name: Word
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: PowerPoint
         level: 98%
 
-      - name: Angular
+      - name: Access
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Almacenamiento en la nube
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Excel
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Paginas WEB
         level: 60%
 
 footer: >
