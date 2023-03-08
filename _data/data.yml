@@ -13,10 +13,10 @@ sidebar:
 
     # Sidebar links
     email: trujanobobadillavaleria23@gmail.com
-    phone: 012 345 6789
+    phone: 55 6106 6497
     timezone: America/Cancun Timezone
     citizenship:
-    website: blog.webjeda.com #do not add http://
+    website: Trujano-Valeria-proyecto.github.io
     linkedin: alandoe
     xing: alandoe
     github: sharu725
@@ -30,27 +30,27 @@ sidebar:
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      title: Languages
+      title: Idiomas
       info:
-        - idiom: English
-          level: Native
+        - idiom: Español
+          level: Nativo
 
-        - idiom: French
-          level: Professional
+        - idiom: Ingles
+          level: Profesional
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Coreano
+          level: Profesional
 
     interests:
-      title: Interests
+      title: Intereses
       info:
-        - item: Climbing
+        - item: La ofimatica
           link:
 
-        - item: Snowboarding
+        - item: Psicología
           link:
 
-        - item: Cooking
+        - item: Danza contemporanea
           link:
 
 career-profile:
